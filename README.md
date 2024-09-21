@@ -12,4 +12,4 @@ Adds 2 blocks:
 
 And 1 bool: Is Sound Playing?
 
-### More to come!
+### More to come! (if it gets enough attention)
